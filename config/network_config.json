@@ -1,0 +1,5 @@
+{
+    "meta": "https://api.skycompass.io/v1/meta",
+    "token": "https://api.skycompass.io/v1/token",
+    "schedules": "https://api.skycompass.io/v1/schedules"
+}
